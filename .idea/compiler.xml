@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="product-server" />
+        <module name="bgy-cloud-config" />
+        <module name="order-server" />
+        <module name="bgy-cloud-gateway" />
+        <module name="user-server" />
+        <module name="bgy-cloud-business" />
+        <module name="bgy-cloud-zipkin" />
+        <module name="bgy-cloud-eureka" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="bgy-cloud" target="1.5" />
+      <module name="bgy-cloud-business" target="1.5" />
+      <module name="bgy-cloud-config" target="1.8" />
+      <module name="bgy-cloud-eureka" target="1.8" />
+      <module name="bgy-cloud-gateway" target="1.8" />
+      <module name="bgy-cloud-zipkin" target="1.8" />
+      <module name="order-server" target="1.8" />
+      <module name="product-server" target="1.8" />
+      <module name="user-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="bgy-cloud-business" options="" />
+      <module name="bgy-cloud-config" options="-parameters" />
+      <module name="bgy-cloud-eureka" options="-parameters" />
+      <module name="bgy-cloud-gateway" options="-parameters" />
+      <module name="bgy-cloud-zipkin" options="-parameters" />
+      <module name="order-server" options="-parameters" />
+      <module name="product-server" options="-parameters" />
+      <module name="user-server" options="-parameters" />
+    </option>
+  </component>
+</project>

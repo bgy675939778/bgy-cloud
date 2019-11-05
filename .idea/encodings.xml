@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bgy-cloud-business" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bgy-cloud-business" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bgy-cloud-business" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bgy-cloud-business/order-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bgy-cloud-business/product-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bgy-cloud-business/user-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bgy-cloud-config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bgy-cloud-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bgy-cloud-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bgy-cloud-zipkin" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bgy-cloud.iml" filepath="$PROJECT_DIR$/bgy-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bgy-cloud-business/bgy-cloud-business.iml" filepath="$PROJECT_DIR$/bgy-cloud-business/bgy-cloud-business.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bgy-cloud-config/bgy-cloud-config.iml" filepath="$PROJECT_DIR$/bgy-cloud-config/bgy-cloud-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bgy-cloud-eureka/bgy-cloud-eureka.iml" filepath="$PROJECT_DIR$/bgy-cloud-eureka/bgy-cloud-eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bgy-cloud-gateway/bgy-cloud-gateway.iml" filepath="$PROJECT_DIR$/bgy-cloud-gateway/bgy-cloud-gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bgy-cloud-zipkin/bgy-cloud-zipkin.iml" filepath="$PROJECT_DIR$/bgy-cloud-zipkin/bgy-cloud-zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bgy-cloud-business/order-server/order-server.iml" filepath="$PROJECT_DIR$/bgy-cloud-business/order-server/order-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bgy-cloud-business/product-server/product-server.iml" filepath="$PROJECT_DIR$/bgy-cloud-business/product-server/product-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bgy-cloud-business/user-server/user-server.iml" filepath="$PROJECT_DIR$/bgy-cloud-business/user-server/user-server.iml" />
+    </modules>
+  </component>
+</project>
